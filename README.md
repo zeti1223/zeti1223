@@ -25,3 +25,9 @@ I'm a student from hungary
 [![](https://visitcount.itsvg.in/api?id=zeti1223&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=zeti1223/Zeti1223.github.io&type=Date)](https://www.star-history.com/#zeti1223/Zeti1223.github.io&Date)
