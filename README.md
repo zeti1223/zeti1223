@@ -32,8 +32,8 @@ I'm a student from hungary
 
 <a href="https://www.star-history.com/#zeti1223/zeti1223&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=zeti1223/zeti1223&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=zeti1223/zeti1223&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=zeti1223/zeti1223&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=zeti1223/zeti1223.github.io&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=zeti1223/zeti1223.github.io&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=zeti1223/zeti1223.github.io&type=Date" />
  </picture>
 </a>
