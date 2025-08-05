@@ -28,7 +28,7 @@ I'm a student from hungary
 
 
 
-## Star History
+<!--## Star History
 
 <a href="https://www.star-history.com/#zeti1223/zeti1223&Date">
  <picture>
